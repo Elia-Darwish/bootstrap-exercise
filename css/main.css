@@ -1,0 +1,12 @@
+.feather {
+    height: 1rem;
+}
+
+.btn-primary {
+    background-color: #3088cf;
+    border: solid 1px #2a78b8;
+}
+
+.btn-primary:hover {
+    background-color: #2770ac;
+}
